@@ -1,0 +1,21 @@
+{
+  "name": "calorie-tracker",
+  "version": "1.0.0",
+  "description": "📝 Project Title: Calorie Tracker Web Application 📄 Project Description:",
+  "main": "javas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SR6792/Calorie-Tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SR6792/Calorie-Tracker/issues"
+  },
+  "homepage": "https://github.com/SR6792/Calorie-Tracker#readme"
+}
